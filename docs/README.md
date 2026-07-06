@@ -7,7 +7,7 @@ The public facing profile is
 which anyone can see.
 The public facing repo is
 <https://github.com/cu-esiil-edu/public-repo>,
-which will also be seen by the public.
+which is visible to the public.
 
 To see how this looks to the public, do the following:
 
