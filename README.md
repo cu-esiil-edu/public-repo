@@ -3,15 +3,15 @@
 This is a public repository.
 This page should be visible to the public.
 The public facing profile is
-<https://olc-techsupport.github.io/public-repo/>,
+<https://cu-esiil-edu.github.io/public-repo/>,
 which anyone can see.
 The public facing repo is
-<https://github.com/olc-techsupport/public-repo>,
+<https://github.com/cu-esiil-edu/public-repo>,
 which will also be seen by the public.
 
 To see how this looks to the public, do the following:
 
-- Copy the URL <https://olc-techsupport.github.io/public-repo/>
+- Copy the URL <https://cu-esiil-edu.github.io/public-repo/>
 - Open a new Incognito Window (Chrome) or Private Window (Firefox/Safari).
 - Paste the URL into the address bar and press Enter.
 
