@@ -1,5 +1,7 @@
 # public-repo
 
+# Public Facing GitHub Repo
+
 This is a public repository.
 This page should be visible to the public.
 The public facing profile is
@@ -7,13 +9,14 @@ The public facing profile is
 which anyone can see.
 The public facing repo is
 <https://github.com/cu-esiil-edu/public-repo>,
-which will also be seen by the public.
+which is visible to the public.
 
 To see how this looks to the public, do the following:
 
 - Copy the URL <https://cu-esiil-edu.github.io/public-repo/>
 - Open a new Incognito Window (Chrome) or Private Window (Firefox/Safari).
 - Paste the URL into the address bar and press Enter.
+- Click on the URL <https://github.com/cu-esiil-edu/public-repo> to see it is visible.
 
 Learn more about GitHub Pages:
 
