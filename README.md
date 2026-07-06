@@ -1,13 +1,13 @@
-# public-repo
+# private-repo
 
 This is a public repository.
 This page should be visible to the public.
 The public facing profile is
 <https://cu-esiil-edu.github.io/public-repo/>,
 which anyone can see.
-The public facing repo is
+The private facing repo is
 <https://github.com/cu-esiil-edu/public-repo>,
-which will also be seen by the public.
+which will not be seen by the public.
 
 To see how this looks to the public, do the following:
 
